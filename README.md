@@ -1,1 +1,1 @@
-A simple application for learning the ins and outs of [Redux Toolkit](https://redux-toolkit.js.org).
+A simple application for learning the ins and outs of [Redux Toolkit](https://redux-toolkit.js.org) during Steve's Advanced Redux course. Watch the full course at [Frontend Masters](https://frontendmasters.com/courses/advanced-redux/).
